@@ -1,5 +1,7 @@
 .venv/
-data/
+data/kaggle
+data/processed_light_curves
+data/processed_physical_signs
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
